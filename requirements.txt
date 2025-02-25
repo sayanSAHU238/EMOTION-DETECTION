@@ -1,0 +1,11 @@
+Instal the following libraries in your system to run this code
+
+opencv-python
+deepface
+pygame
+matplotlib
+tk
+
+"Or" 
+directly install using 
+pip install -r requirements.txt
