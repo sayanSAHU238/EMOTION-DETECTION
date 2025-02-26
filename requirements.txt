@@ -14,3 +14,4 @@ pip install -r requirements.txt
 Dont forget to put the jpeg avatar images in a folder named "avatars"
 
 
+Also keep all everything in the same directory as your emotion_ui_step1.py .
