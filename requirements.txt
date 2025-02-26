@@ -9,3 +9,8 @@ tk
 "Or" 
 directly install using 
 pip install -r requirements.txt
+
+
+Dont forget to put the jpeg avatar images in a folder named "avatars"
+
+
